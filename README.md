@@ -1,3 +1,4 @@
 # CursoGit
 
-###Diego Zepeda
+### Diego Zepeda
+Curso de Git y Github
